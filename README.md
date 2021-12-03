@@ -1,12 +1,2 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Welcome to the most extraordinary hotel in Boston, Massachusetts.">
-  <meta name="keywords" content="hotel,boston hotel,new england hotel">
-  <link rel="stylesheet" href="css/style-index.css">
-  <script src="https://kit.fontawesome.com/0773c5b0ba.js" crossorigin="anonymous"></script>
-  <title>Project Hotel | Contact</title>
-</head>
+<h1>Project: Hotel Site</h1>
+<p>This project was completed using a Udemy course as a guide. This was my first project using HTML and CSS, and is a sampling of basic design techniques I have learned from the course so far. More projects will follow, stay tuned...</p>
