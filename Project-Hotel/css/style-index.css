@@ -94,6 +94,11 @@ p {
 
 
 /* Navbar */
+#header {
+  position: sticky;
+  top: 0;
+}
+
 #navbar {
   background: #333;
   color: #fff;
