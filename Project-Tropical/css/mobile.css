@@ -1,0 +1,27 @@
+
+/* Navbar */
+
+#header {
+  position: relative;
+}
+
+#navbar .logo {
+  float: none;
+  text-align: center;
+}
+
+#navbar ul,
+#navbar ul li {
+  float: none;
+  margin: 0px;
+}
+
+#navbar ul li a {
+  padding: 5px;
+  border-bottom: #000 dotted 1px;
+}
+
+#navbar .container {
+  padding: 0px;
+}
+
